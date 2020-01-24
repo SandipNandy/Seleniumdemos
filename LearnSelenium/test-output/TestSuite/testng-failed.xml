@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [TestSuite]" parallel="tests">
+  <test name="FirefoxTest(failed)" parallel="tests">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="listnerdemo.MultipleBrowser">
+        <methods>
+          <include name="login"/>
+          <include name="closebrowser"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- listnerdemo.MultipleBrowser -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
