@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="listnerdemo.MultipleBrowser"/>
+      <class name="Listnerdemo"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
