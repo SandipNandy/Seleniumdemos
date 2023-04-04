@@ -17,3 +17,5 @@ public class ActionDemo {
 		    act.sendKeys(Keys.ENTER).perform();
      }
   }
+
+// This project is created 4 years ago.
