@@ -2,3 +2,4 @@
 2020-01-03 10:16:58,648  INFO [main] Log4jDemo:13 - Application started successfully
 2020-01-03 10:16:58,662  WARN [main] Log4jDemo:16 - check title
 2020-01-03 10:16:58,662  INFO [main] Log4jDemo:20 - correct page
+2020-01-03 10:16:58,662  INFO [main] Log4jDemo:20 - correct page
