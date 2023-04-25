@@ -1,3 +1,4 @@
+
 package listnerdemo;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
@@ -7,7 +8,8 @@ public class MyListener implements ITestListener{
 
 	@Override
 	public void onTestStart(ITestResult result) {
-		System.out.println("Test case started"+result.getName());		
+		System.out.println("Test case started"+result.getName());
+		
 	}
 
 	@Override
