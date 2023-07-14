@@ -1,9 +1,6 @@
 package commandsdemo;
-
 import java.util.Scanner;
-
 public class ArrayDemo1 {
-
 	public static void main(String[] args) 
 	  {
 		int arrevens=0,arrodds=0;
