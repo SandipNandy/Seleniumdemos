@@ -1,10 +1,7 @@
 package commandsdemo;
-
 public class ArrayDemo {
-
 	public static void main(String[] args)
 	{
-        
 		int arr[]= new int[10];
 		int k=0,m=0;
 		int arrevens[]=new int[5];
