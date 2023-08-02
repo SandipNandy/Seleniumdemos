@@ -5,12 +5,13 @@
   <listeners>
     <listener class-name="listnerdemosuit.MyListener"/>
     <listener class-name="listnerdemosuit.AlwaysRunDemo"/>
+    
   </listeners>
   <test name="MyListener">
     <classes>
       <class name="listnerdemosuite.AlwaysRunDemo"/>
        <class name="listnerdemosuite.MyListener"/>
-       
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
