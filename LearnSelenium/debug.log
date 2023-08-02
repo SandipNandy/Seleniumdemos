@@ -1,5 +1,8 @@
+
 [1231/155823.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff628be0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+
 [1231/155823.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff628be0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+
 [1231/155823.071:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 [1231/155823.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffc66800000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
 [1231/155823.071:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
