@@ -12,6 +12,7 @@ public class ArrayReverseint {
 		  remainder=n%10;
 			
 		  sum=sum*10+remainder;
+			
 		  n=n/10;
 		}
 		System.out.println("Reverse is:"+sum);
