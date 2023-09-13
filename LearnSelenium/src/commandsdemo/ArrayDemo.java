@@ -6,6 +6,7 @@ public class ArrayDemo {
 		int arr[]= new int[10];
 		int k=0,m=0;
 		int arrevens[]=new int[5];
+		
 		int arrodds[]=new int[5];
 		for(int i=0;i<10;i++)
 		{
