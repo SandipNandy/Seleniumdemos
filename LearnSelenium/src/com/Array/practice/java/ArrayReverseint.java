@@ -5,6 +5,7 @@ public class ArrayReverseint {
 		
 		n=23;
 //		Scanner sc=new Scanner(System.in);
+		
 //		n=sc.nextInt();
 		while(n>=0)
 		{
