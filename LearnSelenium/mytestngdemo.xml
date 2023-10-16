@@ -15,6 +15,7 @@
   <test name="MyListener">
     <classes>
       <class name="listnerdemosuite.AlwaysRunDemo"/>
+      
        <class name="listnerdemosuite.MyListener"/>
       
     </classes>
