@@ -11,6 +11,7 @@
   </groups>
     <classes>
       <class name="grouppackage.TestGroup1"/>
+      
        <class name="grouppackage.TestGroup2"/>
     </classes>
   </test> <!-- GroupTest -->
