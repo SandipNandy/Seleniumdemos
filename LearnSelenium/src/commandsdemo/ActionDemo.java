@@ -14,6 +14,7 @@ public class ActionDemo {
 	 public static void main(String[] args) 
 	{
 		   System.setProperty("webdriver.chrome.driver","D:\\Softwares Required For Testing Batch\\seleniumGH20software\\chromedriver_win32 (1)\\chromedriver.exe");
+		
 		    WebDriver driver= new ChromeDriver();
 		    driver.get("https://www.google.com/");	
 		    driver.manage().window().maximize();
