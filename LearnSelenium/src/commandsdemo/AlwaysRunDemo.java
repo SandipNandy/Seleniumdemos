@@ -9,6 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 
 import org.testng.annotations.Test;
+
 public class AlwaysRunDemo {
 	WebDriver driver;
 	@Test
