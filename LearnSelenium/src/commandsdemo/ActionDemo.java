@@ -12,7 +12,8 @@ public class ActionDemo {
 		
 		    WebDriver driver= new ChromeDriver();
 		
-		    driver.get("https://www.google.com/");	
+		    driver.get("https://www.google.com/");
+		
 		    driver.manage().window().maximize();
 		    driver.findElement(By.name("q")).sendKeys("selenium");
 		    Actions act =new Actions(driver);
