@@ -1,6 +1,7 @@
 package grouppackage;
 
 import org.testng.annotations.Test;
+
 public class TestGroup2 {
 	@Test(groups = { "regression"})
 	  public void test5() {
