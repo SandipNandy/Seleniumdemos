@@ -6,6 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class AlertDemo {
 	public static void main(String[] args) throws InterruptedException {
+		
 		System.setProperty("webdriver.chrome.driver",
 				"D:\\Softwares Required For Testing Batch\\seleniumGH20software\\chromedriver_win32 (1)\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
