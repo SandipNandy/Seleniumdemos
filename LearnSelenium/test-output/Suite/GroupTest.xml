@@ -9,6 +9,7 @@
   <testcase name="test3" time="0.003" classname="grouppackage.TestGroup1"/>
   
   <testcase name="test4" time="0.001" classname="grouppackage.TestGroup1"/>
+  
   <testcase name="test5" time="0.001" classname="grouppackage.TestGroup2"/>
   <testcase name="test6" time="0.005" classname="grouppackage.TestGroup2"/>
   <testcase name="test7" time="0.002" classname="grouppackage.TestGroup2"/>
