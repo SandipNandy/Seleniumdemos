@@ -7,7 +7,8 @@ public class TestGroup1 {
 	 @Test(groups = { "smoke"})
 	  public void test1() {
 		 System.out.println("smoke test 1");
-	  }	 
+	  }
+	
 	  @Test(groups = {"smoke"} )
 	  public void test2() {
 		  System.out.println("smoke test 2"); 
