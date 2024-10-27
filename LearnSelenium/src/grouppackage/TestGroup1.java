@@ -18,6 +18,7 @@ public class TestGroup1 {
 	  public void test3() {
 		  System.out.println("smoke test 3");   
 	  }
+	
 	  @Test(groups = { "regression" })
 	  public void test4() {
 		  System.out.println("regression  test 1");   
