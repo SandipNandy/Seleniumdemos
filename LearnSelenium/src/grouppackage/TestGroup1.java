@@ -12,7 +12,8 @@ public class TestGroup1 {
 	  @Test(groups = {"smoke"} )
 	  public void test2() {
 		  System.out.println("smoke test 2"); 
-	  }	 
+	  }
+	
 	  @Test(groups = { "smoke" })
 	  public void test3() {
 		  System.out.println("smoke test 3");   
