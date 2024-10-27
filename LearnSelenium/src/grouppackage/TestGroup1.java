@@ -1,6 +1,7 @@
 package grouppackage;
 
 import org.testng.annotations.Test;
+
 public class TestGroup1 {
 	 @Test(groups = { "smoke"})
 	  public void test1() {
