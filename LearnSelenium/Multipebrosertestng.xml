@@ -4,7 +4,6 @@
   <test name="ChromeTest">
    <parameter name="browser" value="chrome"/>
     <classes>
-      
       <class name="listnerdemo.MultipleBrowser">
         
       </class>
