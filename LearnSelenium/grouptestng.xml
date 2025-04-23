@@ -15,6 +15,7 @@
       <include name="smoke"/>
       
       <include name="regression"/>
+      
     </run>
   </groups>
     <classes>
