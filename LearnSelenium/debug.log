@@ -14,6 +14,7 @@
 [1231/155823.072:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
 
 [1231/155823.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffc64230000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+
 [1231/155823.072:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
 [1231/155823.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffc5c2c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
 [1231/155823.072:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\79.0.3945.88\chrome_elf.dll
