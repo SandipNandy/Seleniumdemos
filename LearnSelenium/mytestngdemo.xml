@@ -7,7 +7,6 @@
   <listeners>
     <listener class-name="listnerdemosuit.MyListener"/>
     <listener class-name="listnerdemosuit.AlwaysRunDemo"/>
-    
   </listeners>
   <test name="MyListener">
     <classes>
