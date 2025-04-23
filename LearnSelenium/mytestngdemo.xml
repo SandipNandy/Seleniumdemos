@@ -6,7 +6,6 @@
 <suite name="Suite">
   <listeners>
     <listener class-name="listnerdemosuit.MyListener"/>
-    
     <listener class-name="listnerdemosuit.AlwaysRunDemo"/>
     
   </listeners>
