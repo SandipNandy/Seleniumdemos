@@ -1,5 +1,4 @@
 package com.Array.practice.java;
-
 import java.io.FileInputStream;
 
 import java.io.IOException;
