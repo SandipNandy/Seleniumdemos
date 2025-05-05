@@ -7,8 +7,7 @@ public class ArrayReverseint {
 //		n=sc.nextInt();
 		
 		while(n>=0)
-		{
-			
+		{	
 		  remainder=n%10;
 			
 		  sum=sum*10+remainder;
