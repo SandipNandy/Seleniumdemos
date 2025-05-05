@@ -1,4 +1,5 @@
 package com.Array.practice.java;
+
 public class ArrayReverseint {
 	public static void main(String[] args) {	
 		int sum=0,remainder,n;
