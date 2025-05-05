@@ -8,8 +8,7 @@ public class ArrayReverseint {
 		
 		while(n>=0)
 		{	
-		  remainder=n%10;
-			
+		  remainder=n%10;	
 		  sum=sum*10+remainder;
 			
 		  n=n/10;
