@@ -22,6 +22,7 @@ public class DataDrivenTesting {
 		   String password=sheet1.getRow(i).getCell(2).getStringCellValue();
 		   driver.get("http://demowebshop.tricentis.com/login");
 		   driver.manage().window().maximize();
+		   
 		   driver.findElement(By.id("Email")).sendKeys(username);
 		   
 		   driver.findElement(By.name("Password")).sendKeys(password);
