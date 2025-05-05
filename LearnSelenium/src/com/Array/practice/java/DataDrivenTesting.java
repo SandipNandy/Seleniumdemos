@@ -25,6 +25,7 @@ public class DataDrivenTesting {
 		   driver.findElement(By.id("Email")).sendKeys(username);
 		   driver.findElement(By.name("Password")).sendKeys(password);
 		   driver.findElement(By.xpath("//input[@class='button-1 login-button']")).click();
+		   
 		   Thread.sleep(5000);
 		   driver.findElement(By.linkText("Log out")).click();
 		   
