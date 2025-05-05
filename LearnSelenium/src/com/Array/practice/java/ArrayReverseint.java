@@ -16,5 +16,4 @@ public class ArrayReverseint {
 	}
 
 }
-
 //Array revverse in java
