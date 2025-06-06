@@ -5,6 +5,7 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   
   <test name="Default test(failed)">
+    
     <classes>
       <class name="griddemo.GridDemo">
         <methods>
