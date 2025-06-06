@@ -8,6 +8,7 @@
     
     <classes>
       <class name="griddemo.GridDemo">
+        
         <methods>
           <include name="verifylogin"/>
         </methods>
