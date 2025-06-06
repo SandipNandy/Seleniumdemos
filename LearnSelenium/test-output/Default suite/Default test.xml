@@ -6,6 +6,7 @@
   <testcase name="verifylogin" time="787.096" classname="griddemo.GridDemo">
 	  
     <failure type="org.openqa.selenium.WebDriverException" message="chrome not reachable
+	    
   (Session info: chrome=79.0.3945.117)
 Build info: version: &amp;apos;3.141.59&amp;apos;, revision: &amp;apos;e82be7d358&amp;apos;, time: &amp;apos;2018-11-14T08:25:53&amp;apos;
 System info: host: &amp;apos;IBM-TESTING01&amp;apos;, ip: &amp;apos;169.254.52.243&amp;apos;, os.name: &amp;apos;Windows 10&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;10.0&amp;apos;, java.version: &amp;apos;1.8.0_151&amp;apos;
