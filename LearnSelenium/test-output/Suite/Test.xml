@@ -6,6 +6,7 @@
   <testcase name="method1" time="14.637" classname="listnerdemo.Parrellel"/>
 	
   <testcase name="method2" time="0.036" classname="listnerdemo.Parrellel">
+	  
     <failure type="java.lang.IllegalStateException" message="The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases">
       <![CDATA[java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases
 	at com.google.common.base.Preconditions.checkState(Preconditions.java:847)
