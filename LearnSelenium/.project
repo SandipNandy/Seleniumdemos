@@ -10,7 +10,6 @@
 		<buildCommand>
 
 			<name>org.eclipse.jdt.core.javabuilder</name>
-
 			<arguments>
 			</arguments>
 		</buildCommand>
