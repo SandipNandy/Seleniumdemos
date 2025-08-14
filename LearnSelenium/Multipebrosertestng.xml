@@ -23,6 +23,7 @@
   <parameter name="browser" value="firefox"/>
   
     <classes>
+      
       <class name="listnerdemo.MultipleBrowser">
        </class>
     </classes>
@@ -30,6 +31,7 @@
   </test> <!-- Test -->
 </suite> <!-- Suite -->
 </suite> <!-- Suite -->
+
 
 
 
