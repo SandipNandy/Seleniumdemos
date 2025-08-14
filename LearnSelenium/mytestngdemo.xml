@@ -10,6 +10,7 @@
     <listener class-name="listnerdemosuit.MyListener"/>
     
     <listener class-name="listnerdemosuit.AlwaysRunDemo"/>
+    
   </listeners>
   <test name="MyListener">
     <classes>
@@ -20,6 +21,7 @@
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
+
 
 
 
