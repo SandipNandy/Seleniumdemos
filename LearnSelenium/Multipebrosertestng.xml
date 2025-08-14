@@ -17,6 +17,7 @@
     </classes>
     
   </test> <!-- Test -->
+  
   <test name="FirefoxTest">
     
   <parameter name="browser" value="firefox"/>
@@ -29,5 +30,6 @@
   </test> <!-- Test -->
 </suite> <!-- Suite -->
 </suite> <!-- Suite -->
+
 
 
