@@ -15,6 +15,7 @@
       </class>
       
     </classes>
+    
   </test> <!-- Test -->
   <test name="FirefoxTest">
     
@@ -28,4 +29,5 @@
   </test> <!-- Test -->
 </suite> <!-- Suite -->
 </suite> <!-- Suite -->
+
 
