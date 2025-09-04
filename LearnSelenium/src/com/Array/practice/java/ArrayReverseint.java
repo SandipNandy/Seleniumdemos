@@ -6,7 +6,6 @@ public class ArrayReverseint {
 		n=23;
 //		Scanner sc=new Scanner(System.in);
 //		n=sc.nextInt();
-		
 		while(n>=0)
 		{	
 		  remainder=n%10;	
@@ -18,3 +17,4 @@ public class ArrayReverseint {
 
 }
 //Array revverse in java
+
