@@ -1,6 +1,7 @@
 package commandsdemo;
 
 public class ArrayDemo {
+	
 	public static void main(String[] args)
 	{
 		int arr[]= new int[10];
@@ -42,3 +43,4 @@ public class ArrayDemo {
 
 
 // This project is created 4 yeras ago. Thank you!!
+
