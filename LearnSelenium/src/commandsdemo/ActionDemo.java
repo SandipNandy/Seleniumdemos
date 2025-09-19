@@ -20,6 +20,7 @@ public class ActionDemo {
 		    driver.get("https://www.google.com/");
 		
 		    driver.manage().window().maximize();
+		
 		    driver.findElement(By.name("q")).sendKeys("selenium");
 		    Actions act =new Actions(driver);
 		    act.sendKeys(Keys.ENTER).perform();
@@ -27,6 +28,7 @@ public class ActionDemo {
   }
 
 // This project is created 4 years ago. Thank you!!
+
 
 
 
