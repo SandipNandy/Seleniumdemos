@@ -22,12 +22,14 @@ public class ActionDemo {
 		    driver.manage().window().maximize();
 		
 		    driver.findElement(By.name("q")).sendKeys("selenium");
+		
 		    Actions act =new Actions(driver);
 		    act.sendKeys(Keys.ENTER).perform();
      }
   }
 
 // This project is created 4 years ago. Thank you!!
+
 
 
 
