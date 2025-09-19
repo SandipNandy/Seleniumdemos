@@ -9,6 +9,7 @@ public class ArrayDemo {
 		int arrevens[]=new int[5];
 		
 		int arrodds[]=new int[5];
+		
 		for(int i=0;i<10;i++)
 		{
 			arr[i]=i+1;
@@ -41,6 +42,7 @@ public class ArrayDemo {
 
 
 // This project is created 4 yeras ago. Thank you!!
+
 
 
 
